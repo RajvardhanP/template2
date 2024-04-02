@@ -1,0 +1,6 @@
+font-family: "Montserrat", sans-serif;
+black- #000000;
+white- #FFFFFF;
+grey- #5f5a58;
+green- #409c74;
+    color light-grey: #878788;
